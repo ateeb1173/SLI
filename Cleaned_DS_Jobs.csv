@@ -1,0 +1,661 @@
+Job Title,Salary Estimate,Rating,Location,Size,Type of ownership,Industry,Sector,job_state,company_age,python,spark,tableau
+Sr Data Scientist,137-171 ,3.1,"New York, NY",1001 to 5000 employees,Nonprofit Organization,Insurance Carriers,Insurance, NY,27,0,0,0
+Data Scientist,137-171 ,4.2,"Chantilly, VA",5001 to 10000 employees,Company - Public,Research & Development,Business Services, VA,52,0,0,0
+Data Scientist,137-171 ,3.8,"Boston, MA",1001 to 5000 employees,Private Practice / Firm,Consulting,Business Services, MA,39,1,0,0
+Data Scientist,137-171 ,3.5,"Newton, MA",501 to 1000 employees,Company - Public,Electrical & Electronic Manufacturing,Manufacturing, MA,20,1,0,0
+Data Scientist,137-171 ,2.9,"New York, NY",51 to 200 employees,Company - Private,Advertising & Marketing,Business Services, NY,22,1,0,0
+Data Scientist,137-171 ,4.2,"Santa Barbara, CA",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, CA,10,1,1,0
+Data Scientist / Machine Learning Expert,137-171 ,3.9,"Cambridge, MA",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,24,1,0,0
+Data Scientist,137-171 ,3.5,"Bedford, MA",1001 to 5000 employees,Company - Public,Consumer Electronics & Appliances Stores,Retail, MA,30,1,0,0
+Staff Data Scientist - Analytics,137-171 ,4.4,"San Diego, CA",5001 to 10000 employees,Company - Public,Computer Hardware & Software,Information Technology, CA,37,0,0,0
+Data Scientist,137-171 ,3.6,"Chicago, IL",51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, IL,6,1,0,0
+Data Scientist,137-171 ,4.5,"Herndon, VA",501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, VA,8,1,0,0
+Data Scientist,137-171 ,4.7,"Saint Louis, MO",51 to 200 employees,Company - Private,IT Services,Information Technology, MO,4,1,1,0
+"Data Scientist - Statistics, Early Career",137-171 ,3.7,"Richland, WA",1001 to 5000 employees,Government,Energy,"Oil, Gas, Energy & Utilities", WA,55,0,0,0
+Data Modeler,137-171 ,3.1,"Northbrook, IL",201 to 500 employees,Company - Private,Chemical Manufacturing,Manufacturing, IL,47,1,0,1
+Data Scientist,137-171 ,3.4,"Washington, DC",1001 to 5000 employees,Company - Private,Consulting,Business Services, DC,34,1,0,0
+Experienced Data Scientist,137-171 ,4.4,"Washington, DC",1 to 50 employees,Company - Private,Federal Agencies,Government, DC,23,1,1,1
+Data Scientist,137-171 ,3.5,"Memphis, TN",1001 to 5000 employees,Company - Private,Chemical Manufacturing,Manufacturing, TN,75,1,0,0
+Data Analyst II,137-171 ,4.2,"Plano, TX",5001 to 10000 employees,Company - Public,Enterprise Software & Network Solutions,Information Technology, TX,32,0,0,0
+Medical Lab Scientist,137-171 ,3.5,"West Grove, PA",5001 to 10000 employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care, PA,3,0,0,0
+Data Scientist,137-171 ,3.2,"New York, NY",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, NY,5,0,0,0
+Data Scientist/Machine Learning,137-171 ,4.3,"New York, NY",51 to 200 employees,Company - Private,Internet,Information Technology, NY,9,1,1,0
+Human Factors Scientist,137-171 ,3.5,"Phoenix, AZ",1001 to 5000 employees,Company - Public,Consulting,Business Services, AZ,53,0,0,0
+Business Intelligence Analyst I- Data Insights,137-171 ,3.5,"Appleton, WI",5001 to 10000 employees,Company - Private,Insurance Carriers,Insurance, WI,160,0,0,0
+Data Scientist,137-171 ,3.4,"Chicago, IL",51 to 200 employees,Company - Private,Advertising & Marketing,Business Services, IL,28,0,0,0
+Data Scientist,137-171 ,4.7,"Atlanta, GA",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, GA,17,1,0,0
+Data Scientist - Risk,137-171 ,4.2,"Orlando, FL",51 to 200 employees,Company - Private,Investment Banking & Asset Management,Finance, FL,24,1,1,1
+Data Scientist-Human Resources,137-171 ,3.8,"Lexington, MA",1001 to 5000 employees,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense, MA,69,1,1,0
+Data Scientist,137-171 ,4.5,"McLean, VA",51 to 200 employees,Company - Private,Federal Agencies,Government, VA,15,1,0,1
+Data Scientist,137-171 ,2.8,"San Francisco, CA",51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, CA,5,0,1,0
+Data Scientist,75-131 ,3.8,"Boston, MA",1001 to 5000 employees,Private Practice / Firm,Consulting,Business Services, MA,39,1,0,0
+Data Scientist / Machine Learning Expert,75-131 ,3.9,"Cambridge, MA",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,24,1,0,0
+Data Scientist,75-131 ,5,"Boston, MA",1 to 50 employees,Company - Private,IT Services,Information Technology, MA,1,1,0,0
+Senior Research Statistician- Data Scientist,75-131 ,4.8,"Sheboygan, WI",1001 to 5000 employees,Company - Private,Insurance Carriers,Insurance, WI,95,0,0,0
+Data Engineer,75-131 ,3.6,United States,201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,US,12,0,0,0
+Associate Data Scientist,75-131 ,3.3,"Bothell, WA",1001 to 5000 employees,Company - Private,Utilities,"Oil, Gas, Energy & Utilities", WA,21,0,1,0
+Business Intelligence Analyst,75-131 ,2.7,"Lincoln, NE",1001 to 5000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, NE,42,1,0,1
+Data Scientist,75-131 ,2.7,"Overland Park, KS",501 to 1000 employees,Company - Private,Health Care Services & Hospitals,Health Care, KS,20,1,0,0
+Data Scientist,75-131 ,2.2,"Chantilly, VA",1 to 50 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, VA,20,1,1,0
+Senior Analyst/Data Scientist,75-131 ,3.4,"Santa Monica, CA",501 to 1000 employees,Company - Private,Internet,Information Technology, CA,54,1,0,1
+Data Analyst,75-131 ,3.1,"Boston, MA",501 to 1000 employees,Company - Private,Investment Banking & Asset Management,Finance, MA,47,1,0,0
+Machine Learning Engineer,75-131 ,3.4,"Portsmouth, NH",10000+ employees,Company - Private,Insurance Carriers,Insurance, NH,108,1,1,0
+Data Analyst I,75-131 ,2.6,"Ewing, NJ",1001 to 5000 employees,Company - Private,,, NJ,62,0,0,0
+Scientist - Molecular Biology,75-131 ,5,"South San Francisco, CA",51 to 200 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,1,0,0,0
+Data Scientist,75-131 ,4.2,"Palo Alto, CA",51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, CA,7,1,0,0
+"Computational Scientist, Machine Learning",75-131 ,4.1,"Cambridge, MA",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,171,1,0,0
+Senior Data Scientist,75-131 ,4.8,"Boston, MA",201 to 500 employees,Company - Private,Computer Hardware & Software,Information Technology, MA,8,0,0,0
+Data Scientist,75-131 ,3.3,"Bellevue, WA",501 to 1000 employees,Company - Private,Investment Banking & Asset Management,Finance, WA,20,1,0,0
+Data Scientist,75-131 ,3.7,"San Francisco, CA",1001 to 5000 employees,Government,Federal Agencies,Government, CA,4,1,0,1
+Data Scientist,75-131 ,4.3,"Cambridge, MA",201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, MA,21,1,0,1
+Data Analyst,75-131 ,4.8,"San Francisco, CA",1 to 50 employees,Company - Private,Advertising & Marketing,Business Services, CA,6,1,0,1
+Data Scientist,75-131 ,3.7,"Cambridge, MA",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,239,1,1,0
+Data Scientist,75-131 ,4,"San Francisco, CA",501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, CA,8,1,1,0
+E-Commerce Data Analyst,75-131 ,3.5,"New Orleans, LA",51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, LA,21,0,0,0
+Data Analytics Engineer,75-131 ,3.7,"Akron, OH",5001 to 10000 employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care, OH,94,0,0,1
+Senior Data Scientist,75-131 ,3.5,"Saint Louis, MO",201 to 500 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MO,8,1,0,0
+Product Data Scientist - Ads Data Science,75-131 ,4.1,"San Francisco, CA",1001 to 5000 employees,Company - Public,Internet,Information Technology, CA,14,1,0,0
+Data Scientist,75-131 ,3.2,"San Francisco, CA",1001 to 5000 employees,Company - Private,Express Delivery Services,Transportation & Logistics, CA,9,1,1,0
+Data Scientist - Intermediate,75-131 ,4.5,"Saint Louis, MO",201 to 500 employees,Company - Private,Staffing & Outsourcing,Business Services, MO,26,1,0,0
+Data Analyst,75-131 ,3.8,"Fort Wayne, IN",10000+ employees,Company - Public,Insurance Agencies & Brokerages,Insurance, IN,157,1,0,0
+Machine Learning Engineer,75-131 ,4.5,"Woburn, MA",201 to 500 employees,Company - Private,Aerospace & Defense,Aerospace & Defense, MA,10,1,0,0
+Data Scientist,79-131 ,3.5,"Bedford, MA",1001 to 5000 employees,Company - Public,Consumer Electronics & Appliances Stores,Retail, MA,30,1,0,0
+Data Scientist,79-131 ,4.2,"Santa Barbara, CA",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, CA,10,1,1,0
+Global Data Analyst,79-131 ,3.8,"Carson, CA",201 to 500 employees,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing, CA,34,0,0,1
+Data Engineer,79-131 ,3.7,"Coral Gables, FL",1001 to 5000 employees,Company - Private,Investment Banking & Asset Management,Finance, FL,25,1,0,0
+Data Scientist,79-131 ,3.7,"New York, NY",501 to 1000 employees,Company - Private,Internet,Information Technology, NY,8,1,0,1
+Data Scientist,79-131 ,4,"Santa Clara, CA",1001 to 5000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, CA,14,1,0,1
+Data & Machine Learning Scientist,79-131 ,3.3,"Chicago, IL",501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, IL,5,1,0,0
+Data Scientist - Machine Learning,79-131 ,2.5,"Brisbane, CA",1 to 50 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,-1,1,1,0
+Data Engineer (Remote),79-131 ,4.2,"Winter Park, FL",51 to 200 employees,Company - Public,Advertising & Marketing,Business Services, FL,14,1,1,0
+"Data Scientist, Applied Machine Learning - Bay Area",79-131 ,3.3,"Redwood City, CA",501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,5,1,0,0
+Principal Data Scientist,79-131 ,4,"San Francisco, CA",5001 to 10000 employees,Company - Public,Computer Hardware & Software,Information Technology, CA,38,1,1,0
+Business Data Analyst,79-131 ,3.7,"Peoria, IL",10000+ employees,Company - Public,Industrial Manufacturing,Manufacturing, IL,95,0,0,1
+Purification Scientist,79-131 ,4.9,"Ipswich, MA",201 to 500 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,46,0,0,0
+Data Analyst,79-131 ,3.4,"Carmel, IN",1001 to 5000 employees,Subsidiary or Business Segment,Insurance Agencies & Brokerages,Insurance, IN,19,1,0,1
+"Data Engineer, Enterprise Analytics",79-131 ,3.1,"New York, NY",1001 to 5000 employees,Nonprofit Organization,Insurance Carriers,Insurance, NY,27,1,0,0
+Data Scientist,79-131 ,3.5,"Washington, DC",1001 to 5000 employees,Company - Private,Internet,Information Technology, DC,1,1,1,0
+Data Scientist,79-131 ,2.9,"New York, NY",201 to 500 employees,Company - Private,Insurance Carriers,Insurance, NY,35,1,0,0
+Data Scientist 3 (718),79-131 ,3.3,"Emeryville, CA",201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,17,1,0,0
+"Real World Science, Data Scientist",79-131 ,4,"Gaithersburg, MD",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MD,107,1,0,0
+Data Scientist,79-131 ,3.6,"Washington, DC",51 to 200 employees,Company - Private,IT Services,Information Technology, DC,19,0,0,0
+Data Engineer,79-131 ,4.7,"Saint Louis, MO",51 to 200 employees,Company - Private,Consulting,Business Services, MO,24,0,1,0
+Data Scientist - Image and Video Analytics,79-131 ,4.9,"Longmont, CO",1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services, CO,4,1,1,0
+Data Scientist,79-131 ,4.3,"Austin, TX",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, TX,21,1,1,0
+"Data Science Manager, Payment Acceptance - USA",79-131 ,4,"San Francisco, CA",1001 to 5000 employees,Company - Private,Internet,Information Technology, CA,10,1,0,0
+Data Analyst,79-131 ,2.6,"Yakima, WA",501 to 1000 employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care, WA,49,0,0,0
+Data Scientist / Applied Mathematician,79-131 ,4.5,"Santa Cruz, CA",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, CA,17,1,0,0
+Machine Learning Engineer,79-131 ,4.8,"Boston, MA",201 to 500 employees,Company - Private,Computer Hardware & Software,Information Technology, MA,8,1,0,0
+Data Scientist,79-131 ,3.9,United States,10000+ employees,Company - Private,Food & Beverage Manufacturing,Manufacturing,US,109,1,1,0
+Patient Safety- Associate Data Scientist,79-131 ,4,"Gaithersburg, MD",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MD,107,1,0,0
+Machine Learning Engineer,79-131 ,4.4,"Springfield, VA",51 to 200 employees,Company - Private,IT Services,Information Technology, VA,21,1,1,0
+Senior Data Scientist,79-131 ,4.2,"Alexandria, VA",5001 to 10000 employees,Company - Public,Research & Development,Business Services, VA,52,1,1,1
+Data Scientist,99-132 ,3.4,"Washington, DC",1001 to 5000 employees,Company - Private,Consulting,Business Services, DC,34,1,0,0
+Staff Data Scientist - Analytics,99-132 ,4.4,"San Diego, CA",5001 to 10000 employees,Company - Public,Computer Hardware & Software,Information Technology, CA,37,0,0,0
+Data Analytics Engineer,99-132 ,3.5,"Reston, VA",51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, VA,5,1,1,0
+"Data Scientist, Kinship - NYC/Portland",99-132 ,3.9,"New York, NY",10000+ employees,Company - Private,Food & Beverage Manufacturing,Manufacturing, NY,109,1,1,0
+Senior Data Scientist,99-132 ,3.8,"Denver, CO",51 to 200 employees,Company - Private,Advertising & Marketing,Business Services, CO,11,0,0,0
+Applied Technology Researcher / Data Scientist,99-132 ,3.5,"Washington, DC",1001 to 5000 employees,Other Organization,Banks & Credit Unions,Finance, DC,61,0,0,1
+Machine Learning Engineer,99-132 ,4.4,"Aurora, CO",1 to 50 employees,Company - Private,Aerospace & Defense,Aerospace & Defense, CO,13,1,1,0
+Health Data Scientist - Biomedical/Biostats,99-132 ,4.1,"Santa Barbara, CA",51 to 200 employees,Company - Private,Internet,Information Technology, CA,8,1,0,0
+Senior Data Scientist,99-132 ,4,"San Francisco, CA",5001 to 10000 employees,Company - Public,Computer Hardware & Software,Information Technology, CA,38,1,1,0
+Staff Data Scientist,99-132 ,4.4,"San Diego, CA",5001 to 10000 employees,Company - Public,Computer Hardware & Software,Information Technology, CA,37,0,0,0
+Data Scientist,99-132 ,3.8,"Hill AFB, UT",501 to 1000 employees,Company - Private,Aerospace & Defense,Aerospace & Defense, UT,47,1,0,1
+Sr Data Engineer (Sr BI Developer),99-132 ,3.2,"Chandler, AZ",501 to 1000 employees,Company - Public,Health Care Services & Hospitals,Health Care, AZ,39,0,0,0
+Data Engineer,99-132 ,2.9,"Indianapolis, IN",51 to 200 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, IN,9,1,0,0
+Lead Data Scientist,99-132 ,4.1,"San Diego, CA",10000+ employees,Company - Public,Computer Hardware & Software,Information Technology, CA,81,1,0,0
+Data Scientist,99-132 ,3.7,"Chantilly, VA",10000+ employees,Company - Public,Enterprise Software & Network Solutions,Information Technology, VA,7,1,0,0
+RFP Data Analyst,99-132 ,3.2,"Nashville, TN",1001 to 5000 employees,Company - Public,Investment Banking & Asset Management,Finance, TN,53,0,1,0
+Data Analyst,99-132 ,4.9,"Timonium, MD",51 to 200 employees,Subsidiary or Business Segment,Video Games,Media, MD,7,0,0,1
+Data Scientist (TS/SCI),99-132 ,3.5,"Herndon, VA",5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, VA,-1,1,0,0
+Data Engineer,99-132 ,5,"Burlingame, CA",1 to 50 employees,Company - Private,Computer Hardware & Software,Information Technology, CA,4,1,0,0
+Data Scientist,99-132 ,4,"Reston, VA",1001 to 5000 employees,Nonprofit Organization,Consulting,Business Services, VA,24,1,1,1
+Data Scientist,99-132 ,3.6,"New York, NY",1 to 50 employees,Company - Private,Health Care Services & Hospitals,Health Care, NY,4,1,0,0
+Software Engineer - Data Science,99-132 ,4,"Annapolis Junction, MD",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, MD,18,1,1,0
+Data Analyst/Engineer,99-132 ,3.2,"Nashville, TN",1001 to 5000 employees,Company - Public,Investment Banking & Asset Management,Finance, TN,53,1,0,0
+NGS Scientist,99-132 ,5,"South San Francisco, CA",51 to 200 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,1,0,0,0
+Data Engineer,99-132 ,4.8,"Bethesda, MD",201 to 500 employees,Company - Private,Health Care Services & Hospitals,Health Care, MD,20,1,0,0
+Data Scientist,99-132 ,4.5,"Dayton, OH",51 to 200 employees,Company - Private,Consulting,Business Services, OH,14,1,0,1
+Senior Data Engineer,99-132 ,4.7,"San Francisco, CA",51 to 200 employees,Company - Private,Internet,Information Technology, CA,5,1,1,0
+Senior Data Scientist,99-132 ,4.5,"Herndon, VA",501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, VA,8,1,0,0
+Data Engineer,99-132 ,4.2,"Winter Park, FL",51 to 200 employees,Company - Public,Advertising & Marketing,Business Services, FL,14,1,1,0
+Business Intelligence Analyst,99-132 ,3.4,"Schaumburg, IL",51 to 200 employees,Company - Private,Shipping,Transportation & Logistics, IL,14,1,0,1
+Sr. ML/Data Scientist - AI/NLP/Chatbot,99-132 ,3.8,"Cupertino, CA",5001 to 10000 employees,Company - Public,Telecommunications Services,Telecommunications, CA,24,1,1,0
+Data Scientist,90-109 ,4.7,"Saint Louis, MO",51 to 200 employees,Company - Private,IT Services,Information Technology, MO,4,1,1,0
+Data Scientist,90-109 ,3.6,"Chicago, IL",51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, IL,6,1,0,0
+Data Engineer,90-109 ,4.2,"Winter Park, FL",51 to 200 employees,Company - Public,Advertising & Marketing,Business Services, FL,14,1,1,0
+Sr. ML/Data Scientist - AI/NLP/Chatbot,90-109 ,3.8,"Cupertino, CA",5001 to 10000 employees,Company - Public,Telecommunications Services,Telecommunications, CA,24,1,1,0
+Data Scientist,90-109 ,5,"San Francisco, CA",1 to 50 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, CA,4,0,0,0
+Senior Data Engineer,90-109 ,4.9,"Lehi, UT",201 to 500 employees,Company - Private,Lending,Finance, UT,9,1,1,0
+Data Engineer,90-109 ,4.4,"Culver City, CA",51 to 200 employees,Company - Private,Advertising & Marketing,Business Services, CA,17,1,0,0
+Data Scientist,90-109 ,3.3,"Lake Oswego, OR",1001 to 5000 employees,Company - Private,Computer Hardware & Software,Information Technology, OR,8,1,1,1
+Senior Data Engineer,90-109 ,4.9,"Lehi, UT",201 to 500 employees,Company - Private,Lending,Finance, UT,9,1,1,0
+Data Scientist,90-109 ,4.2,"San Mateo, CA",201 to 500 employees,Company - Private,Lending,Finance, CA,8,1,0,0
+Data Analyst,90-109 ,4.5,"San Francisco, CA",201 to 500 employees,Company - Private,Staffing & Outsourcing,Business Services, CA,26,1,1,1
+Data Engineer,90-109 ,4.8,"Palo Alto, CA",201 to 500 employees,Company - Private,Video Games,Media, CA,8,0,1,0
+Data Integration and Modeling Engineer,90-109 ,3.8,"Holyoke, MA",501 to 1000 employees,Nonprofit Organization,Utilities,"Oil, Gas, Energy & Utilities", MA,23,0,0,0
+Tableau Data Engineer 20-0117,90-109 ,3.7,"Chicago, IL",1001 to 5000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, IL,19,0,1,1
+Senior Data Scientist,90-109 ,3.3,"San Francisco, CA",51 to 200 employees,Company - Private,Electrical & Electronic Manufacturing,Manufacturing, CA,7,1,1,1
+AI Data Scientist,90-109 ,3.3,"McLean, VA",5001 to 10000 employees,Nonprofit Organization,Federal Agencies,Government, VA,62,1,0,0
+Machine Learning Engineer,90-109 ,5,"Herndon, VA",1 to 50 employees,Company - Private,Aerospace & Defense,Aerospace & Defense, VA,7,1,0,0
+Research Scientist Patient Preferences (Remote),90-109 ,3.8,"Bethesda, MD",501 to 1000 employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MD,7,0,0,0
+Data Scientist,90-109 ,3.4,"Woodbridge, NJ",1001 to 5000 employees,Company - Private,Insurance Carriers,Insurance, NJ,38,0,0,0
+Scientist - Biomarker and Flow Cytometry,90-109 ,2.4,"San Diego, CA",501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,14,0,0,0
+Data Scientist,90-109 ,2.9,"Cambridge, MA",51 to 200 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,20,0,0,0
+Analytics Manager,90-109 ,4.4,"Dearborn, MI",201 to 500 employees,Company - Private,Advertising & Marketing,Business Services, MI,53,0,0,1
+Data Scientist,90-109 ,2.9,"Maryland Heights, MO",10000+ employees,Subsidiary or Business Segment,"Cable, Internet & Telephone Providers",Telecommunications, MO,4,1,0,0
+Staff Scientist- Upstream PD,90-109 ,2.7,"Rockville, MD",201 to 500 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MD,59,0,0,0
+Data Engineer,90-109 ,4.2,"Carpinteria, CA",1001 to 5000 employees,Company - Private,Computer Hardware & Software,Information Technology, CA,18,1,1,0
+Sr Scientist - Extractables & Leachables,90-109 ,3.5,"Columbia, SC",201 to 500 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, SC,25,0,0,0
+ELISA RESEARCH SCIENTIST (CV-15),90-109 ,0,"Hauppauge, NY",,,,, NY,-1,0,0,0
+Sr Data Scientist,90-109 ,4.2,"Saint Louis, MO",10000+ employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MO,57,1,0,0
+Data Scientist,101-165 ,4.5,"Herndon, VA",501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, VA,8,1,0,0
+Experienced Data Scientist,101-165 ,4.4,"Washington, DC",1 to 50 employees,Company - Private,Federal Agencies,Government, DC,23,1,1,1
+Machine Learning Engineer,101-165 ,0,"Reston, VA",,,,, VA,-1,1,0,0
+Data Scientist,101-165 ,3.5,"Fort Meade, MD",10000+ employees,Company - Public,Aerospace & Defense,Aerospace & Defense, MD,51,0,0,0
+Data Scientist,101-165 ,4.5,"San Francisco, CA",201 to 500 employees,Company - Private,Computer Hardware & Software,Information Technology, CA,14,1,1,0
+Say Business Data Analyst,101-165 ,4.1,"Columbia, MO",1001 to 5000 employees,Company - Private,Insurance Carriers,Insurance, MO,74,1,0,1
+Geospatial Data Scientist,101-165 ,3.5,"Chantilly, VA",5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, VA,-1,0,0,0
+Data Analyst,101-165 ,2.7,"Washington, DC",501 to 1000 employees,Nonprofit Organization,Telecommunications Services,Telecommunications, DC,23,1,0,0
+Computational Scientist,101-165 ,3.4,"Vicksburg, MS",10000+ employees,Subsidiary or Business Segment,IT Services,Information Technology, MS,24,0,0,0
+Data Scientist,101-165 ,4.4,"Chandler, AZ",201 to 500 employees,Company - Private,Real Estate,Real Estate, AZ,5,1,0,0
+Senior Data Analyst,101-165 ,4,"San Francisco, CA",5001 to 10000 employees,Company - Public,Computer Hardware & Software,Information Technology, CA,38,1,1,0
+Senior Data Analyst,101-165 ,4.2,"San Francisco, CA",5001 to 10000 employees,Company - Public,Research & Development,Business Services, CA,52,1,1,1
+Data Engineer,101-165 ,3.5,"Birmingham, AL",10000+ employees,Company - Public,,, AL,63,1,1,0
+Sr Data Analyst,101-165 ,2.3,"Blue Bell, PA",1001 to 5000 employees,Other Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, PA,17,0,0,1
+Data Scientist,101-165 ,3.4,"Chicago, IL",5001 to 10000 employees,Company - Public,Staffing & Outsourcing,Business Services, IL,74,0,0,0
+"Machine Learning Scientist - Bay Area, CA",101-165 ,3.3,"Redwood City, CA",501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,5,1,0,0
+Data Scientist,101-165 ,4.7,"Redwood City, CA",201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, CA,11,1,0,0
+Senior Data Scientist - Algorithms,101-165 ,3.9,"New York, NY",201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, NY,6,1,0,0
+Data Analyst,101-165 ,3.3,"San Diego, CA",1001 to 5000 employees,Subsidiary or Business Segment,Banks & Credit Unions,Finance, CA,67,1,0,0
+Senior Data & Machine Learning Scientist,101-165 ,3.3,"Chicago, IL",501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, IL,5,1,0,0
+Data Engineer,101-165 ,4.4,"Cincinnati, OH",201 to 500 employees,Company - Private,Venture Capital & Private Equity,Finance, OH,22,1,0,0
+"Data Scientist - Statistics, Early Career",56-97 ,3.7,"Richland, WA",1001 to 5000 employees,Government,Energy,"Oil, Gas, Energy & Utilities", WA,55,0,0,0
+Data Scientist,56-97 ,3.5,"Memphis, TN",1001 to 5000 employees,Company - Private,Chemical Manufacturing,Manufacturing, TN,75,1,0,0
+Machine Learning Engineer,56-97 ,3.6,"Memphis, TN",501 to 1000 employees,Nonprofit Organization,Federal Agencies,Government, TN,53,1,0,0
+Research Scientist - Patient-Centered Research (Remote),56-97 ,3.8,"Bethesda, MD",501 to 1000 employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MD,7,0,0,0
+Jr. Business Data Analyst (position added 6/12/2020),56-97 ,4.7,"Harrisburg, PA",201 to 500 employees,Company - Private,Advertising & Marketing,Business Services, PA,23,0,0,0
+Sr. Data Scientist II,56-97 ,3.5,"New York, NY",1001 to 5000 employees,Company - Public,Insurance Carriers,Insurance, NY,72,1,1,0
+Data Scientist,56-97 ,3.3,"Oak Ridge, TN",5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, TN,170,1,0,0
+Senior Data Analyst,56-97 ,3.9,"San Francisco, CA",51 to 200 employees,Company - Public,Internet,Information Technology, CA,12,1,0,1
+Lead Data Scientist,56-97 ,3.7,"Boston, MA",5001 to 10000 employees,Company - Private,Insurance Carriers,Insurance, MA,169,1,1,0
+Production Engineer - Statistics/Data Analysis,56-97 ,3.9,"San Carlos, CA",501 to 1000 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,16,1,0,0
+Statistical Scientist,56-97 ,4,"South San Francisco, CA",10000+ employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,44,1,0,0
+Computational Behavioral Scientist,56-97 ,4.2,"Herndon, VA",201 to 500 employees,Company - Private,IT Services,Information Technology, VA,10,1,0,0
+Principal Data Scientist - Machine Learning,56-97 ,3.6,"Waltham, MA",Unknown,Subsidiary or Business Segment,Advertising & Marketing,Business Services, MA,25,1,1,0
+Principal Machine Learning Scientist,56-97 ,4.7,"San Francisco, CA",501 to 1000 employees,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology, CA,21,1,0,0
+Data Engineer,56-97 ,4.1,"Santa Clara, CA",51 to 200 employees,Company - Private,IT Services,Information Technology, CA,9,1,0,0
+Principal Data Scientist,56-97 ,4,"Gaithersburg, MD",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MD,107,1,0,0
+Data Scientist,56-97 ,5,"San Francisco, CA",Unknown,Company - Public,,, CA,-1,1,0,0
+Senior Data Scientist - R&D Oncology,56-97 ,4,"New York, NY",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, NY,107,1,0,0
+Data Scientist,56-97 ,4.3,"San Carlos, CA",51 to 200 employees,Company - Private,,, CA,-1,1,1,0
+"Health Plan Data Analyst, Sr",56-97 ,3.8,"Fort Worth, TX",5001 to 10000 employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care, TX,102,0,0,0
+"Principal Scientist/Associate Director, Quality Control and Analytical Technologies",56-97 ,3.8,"Smithfield, RI",201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, RI,7,0,0,0
+Analytics - Business Assurance Data Analyst,56-97 ,4.6,"Cedar Rapids, IA",501 to 1000 employees,Company - Private,Lending,Finance, IA,28,0,0,1
+Data Scientist,79-106 ,3.4,"Chicago, IL",51 to 200 employees,Company - Private,Advertising & Marketing,Business Services, IL,28,0,0,0
+Data Scientist,79-106 ,4.1,"McLean, VA",51 to 200 employees,Company - Private,Consulting,Business Services, VA,12,1,0,0
+Machine Learning Engineer,79-106 ,3.7,"Fort Belvoir, VA",501 to 1000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, VA,66,1,0,0
+Data Engineer,79-106 ,4.4,"San Francisco, CA",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, CA,12,1,0,0
+"Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab",79-106 ,3.9,"Cambridge, MA",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,24,0,0,0
+Data Engineer,79-106 ,3.6,"Linthicum Heights, MD",1001 to 5000 employees,Company - Private,Research & Development,Business Services, MD,19,1,0,0
+Data Science Instructor,79-106 ,4.5,"Herndon, VA",501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, VA,8,0,0,0
+Senior Business Intelligence Analyst,79-106 ,3.7,"Maple Plain, MN",1001 to 5000 employees,Company - Public,Miscellaneous Manufacturing,Manufacturing, MN,21,0,0,0
+In-Line Inspection Data Analyst,79-106 ,2.9,"Tulsa, OK",201 to 500 employees,Company - Public,Oil & Gas Services,"Oil, Gas, Energy & Utilities", OK,24,0,0,0
+Data Scientist - TS/SCI FSP or CI Required,79-106 ,5,"Annapolis Junction, MD",1 to 50 employees,Company - Private,IT Services,Information Technology, MD,9,1,1,0
+Data Scientist,79-106 ,3.4,"Newton, MA",201 to 500 employees,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services, MA,30,1,0,0
+Senior Data Scientist,79-106 ,3.5,"Herndon, VA",5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, VA,-1,1,0,0
+Data Scientist - TS/SCI Required,79-106 ,5,"Baltimore, MD",1 to 50 employees,Company - Private,IT Services,Information Technology, MD,9,1,1,0
+Data Science Software Engineer,79-106 ,4.8,"Boston, MA",201 to 500 employees,Company - Private,Computer Hardware & Software,Information Technology, MA,8,1,0,0
+ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,79-106 ,3.9,"Oklahoma City, OK",1001 to 5000 employees,Nonprofit Organization,Research & Development,Business Services, OK,73,1,0,0
+AI Ops Data Scientist,79-106 ,4,"Gaithersburg, MD",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MD,107,1,1,0
+"Intelligence Data Analyst, Senior",79-106 ,4.3,"Fort Belvoir, VA",501 to 1000 employees,Company - Private,IT Services,Information Technology, VA,10,1,0,0
+Analytics Manager - Data Mart,79-106 ,3.5,"Scotts Valley, CA",501 to 1000 employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care, CA,24,0,0,1
+Data Modeler (Analytical Systems),79-106 ,3.7,"Boston, MA",5001 to 10000 employees,Company - Private,Insurance Carriers,Insurance, MA,169,0,1,0
+"Senior Machine Learning Scientist - Bay Area, CA",79-106 ,3.3,"Redwood City, CA",501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,5,1,0,0
+Report Writer-Data Analyst,79-106 ,3.1,"Spartanburg, SC",1001 to 5000 employees,Company - Private,Lending,Finance, SC,65,0,0,0
+Data Scientist/Machine Learning,71-123 ,4.3,"New York, NY",51 to 200 employees,Company - Private,Internet,Information Technology, NY,9,1,1,0
+Data Scientist - Risk,71-123 ,4.2,"Orlando, FL",51 to 200 employees,Company - Private,Investment Banking & Asset Management,Finance, FL,24,1,1,1
+Data Engineer,71-123 ,4.4,"Cincinnati, OH",201 to 500 employees,Company - Private,Venture Capital & Private Equity,Finance, OH,22,1,0,0
+Staff Data Scientist - Pricing,71-123 ,3.6,"San Francisco, CA",501 to 1000 employees,Company - Private,Real Estate,Real Estate, CA,6,1,0,0
+Data Scientist,71-123 ,4.5,"Hartford, CT",51 to 200 employees,Company - Private,IT Services,Information Technology, CT,12,1,0,0
+Data Scientist,71-123 ,3,"Chicago, IL",1001 to 5000 employees,Company - Private,IT Services,Information Technology, IL,21,1,1,0
+Data Scientist,71-123 ,5,United States,51 to 200 employees,Company - Private,Transportation Equipment Manufacturing,Manufacturing,US,2,1,0,0
+Machine Learning Engineer,71-123 ,3.6,"Beavercreek, OH",501 to 1000 employees,Nonprofit Organization,Federal Agencies,Government, OH,53,1,0,0
+Equity Data Insights Analyst - Quantitative Analyst,71-123 ,3.6,"Baltimore, MD",5001 to 10000 employees,Company - Public,Investment Banking & Asset Management,Finance, MD,83,1,0,1
+Data Scientist,71-123 ,0,"Norfolk, VA",1 to 50 employees,Company - Private,IT Services,Information Technology, VA,-1,0,0,0
+Research Scientist - Patient-Centered Research (Remote),71-123 ,3.8,"Bethesda, MD",501 to 1000 employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MD,7,0,0,0
+Data Scientist,71-123 ,3.3,"Oak Ridge, TN",5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, TN,170,1,0,0
+Operations Data Analyst,71-123 ,3.8,"Charlotte, NC",1001 to 5000 employees,Company - Public,Insurance Carriers,Insurance, NC,3,0,0,0
+Sr. Data Scientist II,71-123 ,3.5,"New York, NY",1001 to 5000 employees,Company - Public,Insurance Carriers,Insurance, NY,72,1,1,0
+Data Scientist,71-123 ,3.3,"Champaign, IL",10000+ employees,Company - Public,Telecommunications Manufacturing,Telecommunications, IL,49,0,0,0
+Data Scientist,71-123 ,4.6,"San Francisco, CA",1 to 50 employees,Company - Private,Computer Hardware & Software,Information Technology, CA,-1,1,0,1
+Senior Data Analyst,71-123 ,3.9,"San Francisco, CA",51 to 200 employees,Company - Public,Internet,Information Technology, CA,12,1,0,1
+Data Scientist,71-123 ,3.9,"Plano, TX",1 to 50 employees,Company - Private,Consulting,Business Services, TX,-1,1,0,0
+Data Scientist,90-124 ,4.7,"Atlanta, GA",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, GA,17,1,0,0
+Senior Research Statistician- Data Scientist,90-124 ,4.8,"Sheboygan, WI",1001 to 5000 employees,Company - Private,Insurance Carriers,Insurance, WI,95,0,0,0
+Software Data Engineer,90-124 ,3.1,"New York, NY",201 to 500 employees,Company - Private,Computer Hardware & Software,Information Technology, NY,20,1,0,0
+Data Scientist,90-124 ,3.6,"Palo Alto, CA",201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, CA,14,0,0,0
+Real World Evidence (RWE) Scientist,90-124 ,5,"Hoboken, NJ",1 to 50 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, NJ,11,1,0,0
+Data Scientist,90-124 ,3.7,"Cambridge, MA",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,47,1,0,1
+Data Scientist,90-124 ,3.7,"Lebanon, IN",10000+ employees,Company - Public,Transportation Management,Transportation & Logistics, IN,9,1,0,0
+Data Scientist,90-124 ,3.9,"Oakland, CA",51 to 200 employees,Company - Private,Insurance Carriers,Insurance, CA,20,1,1,0
+Data Scientist,90-124 ,4.3,"San Francisco, CA",1 to 50 employees,Company - Private,,, CA,-1,1,0,0
+Computer Scientist 1,90-124 ,4.2,"Melbourne, FL",201 to 500 employees,Company - Private,Aerospace & Defense,Aerospace & Defense, FL,37,1,0,0
+Lead Data Scientist,90-124 ,3.7,"Boston, MA",5001 to 10000 employees,Company - Private,Insurance Carriers,Insurance, MA,169,1,1,0
+Data Scientist,90-124 ,4,"Birmingham, AL",1 to 50 employees,Company - Private,,, AL,-1,0,0,0
+Data Scientist,90-124 ,3.3,"Cleveland, OH",10000+ employees,Company - Public,Industrial Manufacturing,Manufacturing, OH,103,1,0,0
+Data Scientist,90-124 ,4.1,"New York, NY",1001 to 5000 employees,Company - Private,Consulting,Business Services, NY,85,1,0,0
+Data Scientist,90-124 ,3.3,"New York, NY",201 to 500 employees,Company - Private,News Outlet,Media, NY,13,1,0,0
+Data Scientist,90-124 ,3.9,"San Francisco, CA",201 to 500 employees,Company - Private,IT Services,Information Technology, CA,11,1,0,0
+Environmental Data Science,90-124 ,3.1,"Norwell, MA",10000+ employees,Nonprofit Organization,Research & Development,Business Services, MA,91,0,0,0
+Computational Behavioral Scientist,90-124 ,4.2,"Herndon, VA",201 to 500 employees,Company - Private,IT Services,Information Technology, VA,10,1,0,0
+Data Scientist,90-124 ,5,"New York, NY",Unknown,Unknown,,, NY,-1,1,0,0
+Staff BI and Data Engineer,90-124 ,2.9,"San Jose, CA",51 to 200 employees,Company - Private,Advertising & Marketing,Business Services, CA,22,1,1,1
+Principal Machine Learning Scientist,90-124 ,4.7,"San Francisco, CA",501 to 1000 employees,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology, CA,21,1,0,0
+Principal Data Scientist - Machine Learning,90-124 ,3.6,"Waltham, MA",Unknown,Subsidiary or Business Segment,Advertising & Marketing,Business Services, MA,25,1,1,0
+Data Scientist-Human Resources,91-150 ,3.8,"Lexington, MA",1001 to 5000 employees,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense, MA,69,1,1,0
+Associate Data Scientist,91-150 ,3.3,"Bothell, WA",1001 to 5000 employees,Company - Private,Utilities,"Oil, Gas, Energy & Utilities", WA,21,0,1,0
+"Data Scientist - Statistics, Mid-Career",91-150 ,3.7,"Richland, WA",1001 to 5000 employees,Government,Energy,"Oil, Gas, Energy & Utilities", WA,55,0,0,0
+Director of Data Science,91-150 ,3.8,"Boston, MA",1001 to 5000 employees,Private Practice / Firm,Consulting,Business Services, MA,39,1,0,0
+Data Scientist,91-150 ,3.2,"Rockville, MD",1001 to 5000 employees,Nonprofit Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MD,200,1,0,1
+Data Scientist,91-150 ,4.6,"Piscataway, NJ",201 to 500 employees,Company - Private,IT Services,Information Technology, NJ,10,1,1,0
+Data Scientist,91-150 ,3.5,"San Jose, CA",10000+ employees,Company - Public,Internet,Information Technology, CA,25,1,0,1
+"Data Engineer, Digital & Comp Pathology",91-150 ,5,"New York, NY",1 to 50 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, NY,2,1,0,0
+Data Engineer,91-150 ,4.1,"Santa Clara, CA",51 to 200 employees,Company - Private,IT Services,Information Technology, CA,9,1,0,0
+"Manager / Lead, Data Science & Analytics",91-150 ,4.1,"Danvers, MA",1001 to 5000 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,39,1,0,1
+Data Scientist,91-150 ,3.5,"New York, NY",10000+ employees,Company - Public,,, NY,57,1,0,1
+Data Scientist,91-150 ,3.2,"Vienna, VA",51 to 200 employees,Company - Private,IT Services,Information Technology, VA,9,1,1,0
+Data Scientist,91-150 ,5,"San Francisco, CA",Unknown,Company - Public,,, CA,-1,1,0,0
+Data Scientist,91-150 ,4.7,"Livermore, CA",1001 to 5000 employees,Government,Federal Agencies,Government, CA,68,1,0,0
+Diversity and Inclusion Data Analyst,91-150 ,3.8,"Pittsburgh, PA",201 to 500 employees,Company - Private,Banks & Credit Unions,Finance, PA,88,0,0,1
+Data Scientist,91-150 ,3.6,"Herndon, VA",10000+ employees,Company - Public,Architectural & Engineering Services,Business Services, VA,73,1,1,1
+Data Scientist,91-150 ,4.8,"Boston, MA",201 to 500 employees,Company - Private,Computer Hardware & Software,Information Technology, MA,8,0,0,0
+Data Scientist,91-150 ,3.3,"Northbrook, IL",10000+ employees,Company - Private,Consulting,Business Services, IL,126,0,1,0
+Data Scientist,91-150 ,3.7,"Irvine, CA",1001 to 5000 employees,Company - Public,Real Estate,Real Estate, CA,15,1,0,1
+Data Scientist,91-150 ,5,"Irvine, CA",51 to 200 employees,Company - Private,Staffing & Outsourcing,Business Services, CA,2,1,0,1
+Data Scientist,91-150 ,0,"San Francisco, CA",Unknown,Company - Private,,, CA,-1,0,0,0
+Senior Analyst/Data Scientist,141-225 ,3.4,"Santa Monica, CA",501 to 1000 employees,Company - Private,Internet,Information Technology, CA,54,1,0,1
+Data Scientist,141-225 ,5,"Boston, MA",1 to 50 employees,Company - Private,IT Services,Information Technology, MA,1,1,0,0
+Data Scientist,141-225 ,0,"San Francisco, CA",Unknown,Company - Private,,, CA,-1,0,0,0
+Senior Data Scientist - R&D Oncology,141-225 ,4,"New York, NY",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, NY,107,1,0,0
+Data Scientist,141-225 ,4.2,"Oshkosh, WI",10000+ employees,Company - Public,Transportation Equipment Manufacturing,Manufacturing, WI,103,1,1,0
+Data Scientist,141-225 ,4.3,"San Carlos, CA",51 to 200 employees,Company - Private,,, CA,-1,1,1,0
+Data Scientist,141-225 ,3.4,"Menlo Park, CA",51 to 200 employees,Company - Private,Architectural & Engineering Services,Business Services, CA,60,1,0,0
+Data Scientist,141-225 ,-1,"San Francisco, CA",51 to 200 employees,Company - Private,,, CA,-1,1,0,1
+Data Scientist,141-225 ,4.4,"Dallas, TX",201 to 500 employees,Company - Private,Staffing & Outsourcing,Business Services, TX,14,1,0,0
+Data Scientist Machine Learning,141-225 ,3.5,"Arlington, VA",10000+ employees,Company - Public,Aerospace & Defense,Aerospace & Defense, VA,51,1,0,0
+Data Scientist,141-225 ,3.7,"San Francisco, CA",1001 to 5000 employees,Company - Public,Video Games,Media, CA,27,1,1,1
+Data Scientist,141-225 ,3.7,"Monroe, WI",501 to 1000 employees,Company - Private,Food & Beverage Stores,Retail, WI,-1,1,0,0
+Data Scientist,141-225 ,4.1,"Sacramento, CA",10000+ employees,Hospital,Health Care Services & Hospitals,Health Care, CA,-1,1,0,0
+Data Scientist,141-225 ,3.4,"New York, NY",1 to 50 employees,Company - Private,Other Retail Stores,Retail, NY,3,1,1,0
+Data Analyst,141-225 ,4.5,"Reston, VA",1 to 50 employees,Company - Private,IT Services,Information Technology, VA,3,0,0,1
+Data Scientist,141-225 ,3.5,"New York, NY",1001 to 5000 employees,Company - Private,"Hotels, Motels, & Resorts",Travel & Tourism, NY,30,1,1,0
+Data Scientist,141-225 ,3.6,"Hampton, VA",10000+ employees,Company - Public,Electrical & Electronic Manufacturing,Manufacturing, VA,13,0,0,0
+Data Scientist,141-225 ,3.2,"Richmond, VA",10000+ employees,Government,State & Regional Agencies,Government, VA,232,1,0,0
+Data Scientist,141-225 ,3.7,"New York, NY",501 to 1000 employees,Company - Private,Computer Hardware & Software,Information Technology, NY,20,1,0,0
+Data Scientist,141-225 ,4,"Monterey, CA",501 to 1000 employees,Company - Private,Other Retail Stores,Retail, CA,28,1,1,0
+Data Scientist,145-225,3.2,"Chicago, IL",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, IL,5,0,0,0
+Data Scientist,145-225,4.5,"McLean, VA",51 to 200 employees,Company - Private,Federal Agencies,Government, VA,15,1,0,1
+Data Scientist,145-225,3.9,"Woodlawn, MD",201 to 500 employees,Company - Private,IT Services,Information Technology, MD,16,1,0,1
+Data Scientist,145-225,3.2,United States,1 to 50 employees,Company - Private,IT Services,Information Technology,US,-1,1,0,0
+Data Scientist,145-225,5,"New York, NY",Unknown,Company - Public,,, NY,-1,1,0,0
+Data Scientist,145-225,3.4,"Reston, VA",5001 to 10000 employees,Company - Private,Aerospace & Defense,Aerospace & Defense, VA,17,0,0,0
+Data Scientist,145-225,4.4,"New York, NY",51 to 200 employees,Company - Private,IT Services,Information Technology, NY,5,1,1,0
+"Health Plan Data Analyst, Sr",145-225,3.8,"Fort Worth, TX",5001 to 10000 employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care, TX,102,0,0,0
+"Principal Scientist/Associate Director, Quality Control and Analytical Technologies",145-225,3.8,"Smithfield, RI",201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, RI,7,0,0,0
+Data Scientist,145-225,3.5,"Atlanta, GA",201 to 500 employees,Company - Public,Financial Transaction Processing,Finance, GA,28,1,0,1
+Senior Data Scientist,145-225,3.8,"San Francisco, CA",201 to 500 employees,Company - Private,Insurance Carriers,Insurance, CA,9,1,1,0
+Data Scientist,145-225,3.9,"Ann Arbor, MI",1001 to 5000 employees,Company - Public,Internet,Information Technology, MI,15,1,1,0
+Data Scientist,145-225,3.4,"Pittsburgh, PA",51 to 200 employees,Company - Private,,, PA,-1,1,0,0
+Data Scientist,145-225,3.8,"New York, NY",51 to 200 employees,Company - Private,Staffing & Outsourcing,Business Services, NY,20,1,0,1
+Analytics - Business Assurance Data Analyst,145-225,4.6,"Cedar Rapids, IA",501 to 1000 employees,Company - Private,Lending,Finance, IA,28,0,0,1
+Data Scientist,145-225,0,"New York, NY",1 to 50 employees,Company - Private,Consulting,Business Services, NY,-1,0,0,0
+Data Scientist,145-225,4.6,"Concord, CA",51 to 200 employees,Company - Private,Consulting,Business Services, CA,-1,0,0,0
+"Development Scientist, Voltaren",145-225,3.9,"Richmond, VA",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, VA,190,0,0,0
+Data Scientist,145-225,0,"Cincinnati, OH",1 to 50 employees,Company - Private,,, OH,-1,0,0,0
+Data Scientist,79-147 ,3.7,"San Francisco, CA",1001 to 5000 employees,Government,Federal Agencies,Government, CA,4,1,0,1
+Data Scientist,79-147 ,3.3,"Bellevue, WA",501 to 1000 employees,Company - Private,Investment Banking & Asset Management,Finance, WA,20,1,0,0
+Data Engineer,79-147 ,4.4,"San Francisco, CA",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, CA,12,1,0,0
+Data Scientist,79-147 ,3.7,"Oakland, CA",1001 to 5000 employees,Company - Private,IT Services,Information Technology, CA,23,0,0,0
+Data Scientist,79-147 ,3.3,"San Francisco, CA",201 to 500 employees,Company - Private,Staffing & Outsourcing,Business Services, CA,25,1,0,0
+Data Scientist,79-147 ,3.4,"Boston, MA",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, MA,36,1,1,0
+Data Scientist,79-147 ,0,"Reston, VA",51 to 200 employees,Company - Private,IT Services,Information Technology, VA,-1,1,0,0
+Machine Learning Engineer,79-147 ,3.7,"Fort Belvoir, VA",501 to 1000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, VA,66,1,0,0
+Principal Data & Analytics Platform Engineer,79-147 ,3.7,"Durham, NC",1001 to 5000 employees,Company - Private,Insurance Carriers,Insurance, NC,87,1,1,0
+Machine Learning Engineer/Scientist,79-147 ,4.8,"New York, NY",501 to 1000 employees,Company - Private,Investment Banking & Asset Management,Finance, NY,20,0,0,0
+Data Scientist,79-147 ,5,"McLean, VA",1 to 50 employees,Company - Private,Computer Hardware & Software,Information Technology, VA,17,1,0,0
+"Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab",79-147 ,3.9,"Cambridge, MA",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,24,0,0,0
+Data Scientist,79-147 ,3.4,"Chicago, IL",501 to 1000 employees,Company - Private,,, IL,-1,0,0,0
+Data Scientist,79-147 ,3.3,"Kent, OH",10000+ employees,Self-employed,Timber Operations,Agriculture & Forestry, OH,140,1,0,0
+Data Scientist,79-147 ,4.6,"Reston, VA",501 to 1000 employees,Company - Private,Aerospace & Defense,Aerospace & Defense, VA,21,0,0,0
+Data Scientist,79-147 ,0,"San Francisco, CA",1 to 50 employees,Company - Private,,, CA,-1,1,0,0
+Machine Learning Engineer,79-147 ,2.6,"Pittsburgh, PA",501 to 1000 employees,College / University,Colleges & Universities,Education, PA,36,1,0,0
+Data Analyst - Unilever Prestige,79-147 ,3.8,"Carson, CA",201 to 500 employees,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing, CA,34,1,0,1
+Data Scientist,79-147 ,4.8,"New York, NY",1 to 50 employees,Company - Private,IT Services,Information Technology, NY,9,1,0,1
+"VP, Data Science",79-147 ,3.9,"New York, NY",51 to 200 employees,Company - Private,Research & Development,Business Services, NY,8,1,1,0
+Data Scientist,122-146 ,4,"Santa Clara, CA",501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, CA,8,1,1,0
+Data Scientist,122-146 ,4.2,"Palo Alto, CA",51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, CA,7,1,0,0
+Senior Business Intelligence Analyst,122-146 ,3.7,"Maple Plain, MN",1001 to 5000 employees,Company - Public,Miscellaneous Manufacturing,Manufacturing, MN,21,0,0,0
+Data Scientist,122-146 ,3,"Cincinnati, OH",1001 to 5000 employees,Company - Private,Insurance Agencies & Brokerages,Insurance, OH,133,0,0,0
+Data Engineer - Kafka,122-146 ,3.5,"San Jose, CA",10000+ employees,Company - Public,Computer Hardware & Software,Information Technology, CA,50,1,1,0
+Data Scientist,122-146 ,2.9,"Santa Clara, CA",1 to 50 employees,Company - Private,,, CA,-1,1,1,0
+Data Scientist,122-146 ,5,"New York, NY",1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services, NY,6,0,0,0
+Data Scientist,122-146 ,4.7,"Chantilly, VA",201 to 500 employees,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology, VA,18,0,0,0
+Data Scientist,122-146 ,0,"Palo Alto, CA",,,,, CA,-1,0,0,0
+Decision Scientist,122-146 ,4.5,"Laurel, MD",5001 to 10000 employees,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense, MD,78,0,1,0
+Data Scientist,122-146 ,4.9,"Cambridge, MA",1 to 50 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, MA,10,1,1,0
+Data Science All Star Program - Data Engineer Track,122-146 ,4.6,"Columbia, MD",51 to 200 employees,Company - Private,Consulting,Business Services, MD,18,1,1,0
+Data Scientist - TS/SCI FSP or CI Required,122-146 ,5,"Annapolis Junction, MD",1 to 50 employees,Company - Private,IT Services,Information Technology, MD,9,1,1,0
+Data Analyst,122-146 ,3.9,"Falls Church, VA",51 to 200 employees,Company - Public,Consulting,Business Services, VA,8,1,0,1
+Data Scientist,122-146 ,-1,"San Francisco, CA",,,,, CA,-1,1,1,0
+Data Scientist,122-146 ,-1,"San Francisco, CA",,,,, CA,-1,1,1,0
+Data Scientist,122-146 ,-1,"San Francisco, CA",,,,, CA,-1,1,1,0
+Data Scientist,122-146 ,-1,"San Francisco, CA",,,,, CA,-1,1,1,0
+Data Scientist,122-146 ,-1,"San Francisco, CA",,,,, CA,-1,1,1,0
+Data Scientist,122-146 ,-1,"San Francisco, CA",,,,, CA,-1,1,1,0
+Senior Data Scientist,122-146 ,3.5,"Herndon, VA",5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, VA,-1,1,0,0
+Data Scientist,112-116 ,4.3,"Cambridge, MA",201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, MA,21,1,0,1
+Data Scientist,112-116 ,3.7,"Cambridge, MA",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,239,1,1,0
+Data Scientist,112-116 ,3.5,"Herndon, VA",5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, VA,-1,1,1,1
+ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,112-116 ,3.9,"Oklahoma City, OK",1001 to 5000 employees,Nonprofit Organization,Research & Development,Business Services, OK,73,1,0,0
+Data Scientist,112-116 ,4.7,"Thousand Oaks, CA",51 to 200 employees,Company - Private,Consulting,Business Services, CA,12,1,0,0
+Data Science Software Engineer,112-116 ,4.8,"Boston, MA",201 to 500 employees,Company - Private,Computer Hardware & Software,Information Technology, MA,8,1,0,0
+AI Ops Data Scientist,112-116 ,4,"Gaithersburg, MD",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MD,107,1,1,0
+Data Scientist,112-116 ,4.4,"Edison, NJ",51 to 200 employees,Company - Private,,, NJ,-1,0,0,0
+Data Scientist,112-116 ,3.2,"Adelphi, MD",10000+ employees,Company - Public,Aerospace & Defense,Aerospace & Defense, MD,2,1,0,0
+Data Scientist,112-116 ,4.5,"Washington, DC",1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services, DC,40,1,0,0
+Scientist - Machine Learning,112-116 ,3.5,"Seattle, WA",201 to 500 employees,Nonprofit Organization,Research & Development,Business Services, WA,17,0,0,0
+Data Scientist,112-116 ,4.4,"Plano, TX",1001 to 5000 employees,Company - Private,Staffing & Outsourcing,Business Services, TX,31,1,0,0
+Data Scientist,112-116 ,3.1,"Sunnyvale, CA",1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services, CA,19,1,0,1
+Sr. Data Scientist,112-116 ,3.5,"Denver, CO",201 to 500 employees,Company - Private,Travel Agencies,Travel & Tourism, CO,9,1,0,0
+Data Scientist,112-116 ,3.8,"Thousand Oaks, CA",1001 to 5000 employees,Company - Private,IT Services,Information Technology, CA,21,1,0,0
+Data Scientist,112-116 ,3.7,"McLean, VA",5001 to 10000 employees,Subsidiary or Business Segment,Energy,"Oil, Gas, Energy & Utilities", VA,112,1,0,0
+Analytics Manager - Data Mart,112-116 ,3.5,"Scotts Valley, CA",501 to 1000 employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care, CA,24,0,0,1
+Data Modeler (Analytical Systems),112-116 ,3.7,"Boston, MA",5001 to 10000 employees,Company - Private,Insurance Carriers,Insurance, MA,169,0,1,0
+Applied AI Scientist / Engineer,112-116 ,5,"Boston, MA",1 to 50 employees,Contract,Computer Hardware & Software,Information Technology, MA,17,1,0,0
+"Data Engineer (Analytics, SQL, Python, AWS)",112-116 ,4,"Hartford, CT",10000+ employees,Company - Public,Insurance Carriers,Insurance, CT,167,1,1,0
+Senior Data Analyst - Finance & Platform Analytics,112-116 ,3.6,"San Francisco, CA",1001 to 5000 employees,Subsidiary or Business Segment,Internet,Information Technology, CA,9,1,0,1
+Senior Data Scientist,110-163 ,4.8,"Boston, MA",201 to 500 employees,Company - Private,Computer Hardware & Software,Information Technology, MA,8,0,0,0
+Market Research Data Scientist,110-163 ,3.8,"Denver, CO",51 to 200 employees,Company - Private,Advertising & Marketing,Business Services, CO,11,0,0,0
+IT Partner Digital Health Technology and Data Science,110-163 ,3.6,"Cambridge, MA",5001 to 10000 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,42,0,0,0
+Data Scientist,110-163 ,-1,"San Francisco, CA",,,,, CA,-1,1,1,1
+Data Scientist,110-163 ,-1,"San Francisco, CA",,,,, CA,-1,1,1,1
+"Senior Machine Learning Scientist - Bay Area, CA",110-163 ,3.3,"Redwood City, CA",501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,5,1,0,0
+"Software Engineer (Data Scientist, C,C++,Linux,Unix) - SISW - MG",110-163 ,4.1,"Fremont, CA",5001 to 10000 employees,Company - Public,Computer Hardware & Software,Information Technology, CA,39,1,0,0
+Senior Clinical Data Scientist Programmer,110-163 ,3.6,"Hamilton, NJ",1001 to 5000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, NJ,-1,0,0,0
+Data Engineer,110-163 ,4.5,"Falls Church, VA",51 to 200 employees,Company - Private,Federal Agencies,Government, VA,15,1,0,0
+Computer Vision / Deep Learning Scientist,110-163 ,3.3,"Chicago, IL",501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, IL,5,0,0,0
+Data Solutions Engineer - Data Modeler,110-163 ,3.4,"Indianapolis, IN",10000+ employees,Company - Private,Insurance Carriers,Insurance, IN,108,1,0,0
+Data Scientist,110-163 ,4.3,"Washington, DC",501 to 1000 employees,Company - Private,IT Services,Information Technology, DC,24,0,0,0
+Data Scientist (TS/SCI w/ Poly),110-163 ,3.5,"Herndon, VA",5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, VA,-1,1,0,0
+Weapons and Sensors Engineer/Scientist,110-163 ,4,"Huntsville, AL",1001 to 5000 employees,Company - Private,Aerospace & Defense,Aerospace & Defense, AL,46,1,0,0
+Applied Computer Scientist,110-163 ,4.5,"Woburn, MA",201 to 500 employees,Company - Private,Aerospace & Defense,Aerospace & Defense, MA,10,0,0,0
+Senior Data Analyst,110-163 ,4.5,"Herndon, VA",501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, VA,8,1,0,0
+Cloud Data Engineer (Azure),110-163 ,3.9,"Merrifield, VA",10000+ employees,Other Organization,Banks & Credit Unions,Finance, VA,87,0,0,1
+"Lead Certified Clinical Laboratory Scientist - Saturday - Tuesday, 8:00pm - 6:30am shift",110-163 ,4,"Madison, WI",1001 to 5000 employees,Company - Public,Health Care Services & Hospitals,Health Care, WI,25,0,0,0
+Sr. Data Analyst,110-163 ,3.6,"Philadelphia, PA",201 to 500 employees,Company - Private,Health Care Services & Hospitals,Health Care, PA,26,0,0,1
+Senior Scientist - Toxicologist - Product Integrity (Stewardship),110-163 ,3.3,"Winston-Salem, NC",5001 to 10000 employees,Company - Private,Consumer Products Manufacturing,Manufacturing, NC,145,0,0,0
+Senior Machine Learning Engineer,110-163 ,5,"Raleigh, NC",51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, NC,4,0,1,0
+Product Data Scientist - Ads Data Science,124-198 ,4.1,"San Francisco, CA",1001 to 5000 employees,Company - Public,Internet,Information Technology, CA,14,1,0,0
+Data Scientist,124-198 ,3.2,"San Francisco, CA",1001 to 5000 employees,Company - Private,Express Delivery Services,Transportation & Logistics, CA,9,1,1,0
+Data Scientist,124-198 ,4.9,"Columbia, MD",51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, MD,10,1,1,1
+Data Scientist,124-198 ,-1,"San Mateo, CA",Unknown,Unknown,,, CA,-1,0,0,0
+Data Scientist,124-198 ,3.3,"Boston, MA",201 to 500 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,2,1,0,0
+Data Scientist,124-198 ,-1,"Burbank, CA",1 to 50 employees,Company - Private,IT Services,Information Technology, CA,15,1,1,0
+Data Scientist,124-198 ,5,"Sunnyvale, CA",1 to 50 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, CA,-1,1,1,1
+Data Scientist,124-198 ,3.4,"San Ramon, CA",1 to 50 employees,Company - Private,Advertising & Marketing,Business Services, CA,-1,1,0,0
+Data Scientist,124-198 ,4.1,"Washington, DC",1 to 50 employees,Company - Private,Consulting,Business Services, DC,-1,1,0,1
+Data Scientist,124-198 ,5,"Springfield, VA",51 to 200 employees,Company - Private,Aerospace & Defense,Aerospace & Defense, VA,6,1,0,0
+Data Scientist,124-198 ,4.2,"Phoenix, AZ",201 to 500 employees,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services, AZ,21,1,0,0
+Data Scientist,124-198 ,3.7,"Oxnard, CA",10000+ employees,Company - Public,Consulting,Business Services, CA,106,1,0,1
+Data Scientist,124-198 ,3.8,"Kansas City, MO",5001 to 10000 employees,Company - Private,Architectural & Engineering Services,Business Services, MO,122,1,0,0
+Data Scientist,124-198 ,4.8,"Jersey City, NJ",201 to 500 employees,Company - Private,IT Services,Information Technology, NJ,10,1,0,0
+Data Scientist,124-198 ,3.5,"Manchester, NH",10000+ employees,Company - Public,Staffing & Outsourcing,Business Services, NH,72,1,1,0
+Analytics - Business Assurance Data Analyst,124-198 ,4.6,"Cedar Rapids, IA",501 to 1000 employees,Company - Private,Lending,Finance, IA,28,0,0,1
+Data Scientist,124-198 ,4.5,"Winters, TX",1 to 50 employees,Company - Private,Accounting,Accounting & Legal, TX,-1,1,1,0
+Data Scientist,124-198 ,3.9,"Ann Arbor, MI",1001 to 5000 employees,Company - Public,Internet,Information Technology, MI,15,1,1,0
+Data Scientist,124-198 ,3.4,"Brooklyn, NY",Unknown,Company - Private,,, NY,-1,1,0,0
+Data Scientist,124-198 ,-1,"New York, NY",1 to 50 employees,Company - Private,Consulting,Business Services, NY,-1,0,0,0
+Data Scientist,124-198 ,4.1,"McLean, VA",51 to 200 employees,Company - Private,Consulting,Business Services, VA,12,1,0,0
+Data Scientist,79-133 ,3.7,"New York, NY",501 to 1000 employees,Company - Private,Internet,Information Technology, NY,8,1,0,1
+Senior Data Scientist,79-133 ,3.5,"Saint Louis, MO",201 to 500 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MO,8,1,0,0
+Data Scientist,79-133 ,4.6,"Concord, CA",51 to 200 employees,Company - Private,Consulting,Business Services, CA,-1,0,0,0
+Data Scientist,79-133 ,-1,"Fort Belvoir, VA",Unknown,Company - Public,,, VA,-1,1,0,0
+Data Scientist,79-133 ,-1,"Cincinnati, OH",1 to 50 employees,Company - Private,,, OH,-1,0,0,0
+Data Engineer,79-133 ,4.4,"San Francisco, CA",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, CA,12,1,0,0
+Data Scientist,79-133 ,3.6,"Germantown, MD",51 to 200 employees,Company - Private,IT Services,Information Technology, MD,-1,1,0,1
+Data Scientist,79-133 ,3.1,"Omaha, NE",10000+ employees,Company - Public,Logistics & Supply Chain,Transportation & Logistics, NE,64,0,0,0
+Data Scientist,79-133 ,5,"McLean, VA",1 to 50 employees,Company - Private,,, VA,-1,1,0,0
+Data Scientist - Machine Learning,79-133 ,5,"Open Fork, VA",1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services, VA,2,1,1,0
+Data Scientist,79-133 ,-1,"Reston, VA",51 to 200 employees,Company - Private,IT Services,Information Technology, VA,-1,1,0,0
+Data Scientist,79-133 ,-1,United States,1 to 50 employees,Company - Private,,,US,-1,0,0,0
+Data Scientist,79-133 ,3.5,"San Carlos, CA",201 to 500 employees,Company - Private,Farm Support Services,Agriculture & Forestry, CA,6,1,0,0
+Data Scientist,79-133 ,-1,"Boston, MA",1 to 50 employees,Private Practice / Firm,Health Care Services & Hospitals,Health Care, MA,-1,1,0,0
+Data Scientist,79-133 ,5,"Ashburn, VA",1 to 50 employees,Company - Public,,, VA,-1,1,0,1
+Data Scientist,79-133 ,2.7,"Lombard, IL",10000+ employees,Company - Public,IT Services,Information Technology, IL,13,0,0,0
+Data Scientist,79-133 ,4.1,"Hampton, VA",1001 to 5000 employees,Company - Private,Research & Development,Business Services, VA,43,1,0,0
+Data Scientist,79-133 ,2.1,"San Francisco, CA",Unknown,Company - Private,Telecommunications Services,Telecommunications, CA,1,1,1,0
+Machine Learning Engineer/Scientist,79-133 ,4.8,"New York, NY",501 to 1000 employees,Company - Private,Investment Banking & Asset Management,Finance, NY,20,0,0,0
+Data Scientist - Intermediate,69-116 ,4.5,"Saint Louis, MO",201 to 500 employees,Company - Private,Staffing & Outsourcing,Business Services, MO,26,1,0,0
+Principal Data Scientist,69-116 ,4,"San Francisco, CA",5001 to 10000 employees,Company - Public,Computer Hardware & Software,Information Technology, CA,38,1,1,0
+Data Scientist,69-116 ,3.3,"Edison, NJ",10000+ employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care, NJ,-1,1,0,1
+"Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab",69-116 ,3.9,"Cambridge, MA",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,24,0,0,0
+Data Scientist,69-116 ,3.2,"Alpharetta, GA",1001 to 5000 employees,Company - Private,Staffing & Outsourcing,Business Services, GA,13,1,1,0
+Data Scientist,69-116 ,3.2,"Boulder, CO",1001 to 5000 employees,Company - Public,Internet,Information Technology, CO,11,1,1,0
+Data Scientist- Industrial Discrete Sector Industry,69-116 ,3.7,"Atlanta, GA",10000+ employees,Company - Public,IT Services,Information Technology, GA,109,1,0,0
+Data Scientist,69-116 ,4.4,"Falls Church, VA",51 to 200 employees,Company - Private,Consulting,Business Services, VA,13,1,0,1
+Data Scientist,69-116 ,3.1,"Mountain View, CA",1 to 50 employees,Company - Private,IT Services,Information Technology, CA,11,1,0,0
+Data Scientist,69-116 ,3.3,"Kent, OH",10000+ employees,Self-employed,Timber Operations,Agriculture & Forestry, OH,140,1,0,0
+Data Scientist,69-116 ,3.5,"Trumbull, CT",501 to 1000 employees,Company - Private,Insurance Carriers,Insurance, CT,14,1,0,1
+Data Scientist,69-116 ,-1,"San Francisco, CA",1 to 50 employees,Company - Private,,, CA,-1,1,0,0
+Machine Learning Engineer,69-116 ,2.6,"Pittsburgh, PA",501 to 1000 employees,College / University,Colleges & Universities,Education, PA,36,1,0,0
+Data Scientist,69-116 ,-1,"Sterling, VA",,,,, VA,-1,1,1,1
+Data Scientist,69-116 ,2.7,"New York, NY",1001 to 5000 employees,Company - Public,Advertising & Marketing,Business Services, NY,52,1,0,1
+Data Scientist,69-116 ,3.5,"Alpharetta, GA",501 to 1000 employees,Company - Private,Consulting,Business Services, GA,11,1,0,0
+Data Scientist,69-116 ,3.2,"Philadelphia, PA",1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services, PA,-1,1,1,0
+Data Analyst - Unilever Prestige,69-116 ,3.8,"Carson, CA",201 to 500 employees,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing, CA,34,1,0,1
+Data Scientist,69-116 ,4.2,"Foster City, CA",51 to 200 employees,Company - Private,IT Services,Information Technology, CA,-1,1,0,0
+Data Scientist,69-116 ,4.8,"New York, NY",1 to 50 employees,Company - Private,IT Services,Information Technology, NY,9,1,0,1
+Data Scientist,69-116 ,4.2,"Frederick, MD",51 to 200 employees,Company - Private,Staffing & Outsourcing,Business Services, MD,31,1,0,1
+Data & Machine Learning Scientist,31-56 ,3.3,"Chicago, IL",501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, IL,5,1,0,0
+Data Scientist,31-56 ,4,"Santa Clara, CA",1001 to 5000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, CA,14,1,0,1
+"VP, Data Science",31-56 ,3.9,"New York, NY",51 to 200 employees,Company - Private,Research & Development,Business Services, NY,8,1,1,0
+Senior Business Intelligence Analyst,31-56 ,3.7,"Maple Plain, MN",1001 to 5000 employees,Company - Public,Miscellaneous Manufacturing,Manufacturing, MN,21,0,0,0
+Data Scientist,31-56 ,3.9,"Colorado Springs, CO",501 to 1000 employees,Company - Private,Aerospace & Defense,Aerospace & Defense, CO,16,1,0,1
+Data Engineer - Kafka,31-56 ,3.5,"San Jose, CA",10000+ employees,Company - Public,Computer Hardware & Software,Information Technology, CA,50,1,1,0
+Data Scientist,31-56 ,4,United States,1 to 50 employees,Company - Private,Investment Banking & Asset Management,Finance,US,8,1,0,0
+Data Scientist,31-56 ,3,"Cincinnati, OH",1001 to 5000 employees,Company - Private,Insurance Agencies & Brokerages,Insurance, OH,133,0,0,0
+Data Scientist,31-56 ,3.7,"Atlanta, GA",5001 to 10000 employees,Company - Public,Financial Transaction Processing,Finance, GA,20,1,0,1
+Data Scientist,31-56 ,4.5,"Washington, DC",1 to 50 employees,Company - Private,,, DC,-1,1,1,0
+Data Scientist,31-56 ,2.8,"Arlington, VA",51 to 200 employees,Nonprofit Organization,Social Assistance,Non-Profit, VA,33,1,0,0
+Data Scientist,31-56 ,4.1,"Santa Clara, CA",201 to 500 employees,Company - Private,,, CA,-1,1,0,0
+In-Line Inspection Data Analyst,31-56 ,2.9,"Tulsa, OK",201 to 500 employees,Company - Public,Oil & Gas Services,"Oil, Gas, Energy & Utilities", OK,24,0,0,0
+Data Scientist,31-56 ,4.7,"Chantilly, VA",201 to 500 employees,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology, VA,18,0,0,0
+Data Scientist,31-56 ,3.4,"Southfield, MI",1001 to 5000 employees,Company - Private,Construction,"Construction, Repair & Maintenance", MI,22,1,0,0
+Data Scientist,31-56 ,3.9,"San Francisco, CA",1001 to 5000 employees,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services, CA,25,0,0,0
+Data Scientist,31-56 ,2.9,United States,201 to 500 employees,Company - Private,IT Services,Information Technology,US,35,1,0,0
+Decision Scientist,31-56 ,4.5,"Laurel, MD",5001 to 10000 employees,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense, MD,78,0,1,0
+Data Scientist,31-56 ,4.9,"Cambridge, MA",1 to 50 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, MA,10,1,1,0
+Data Scientist - TS/SCI FSP or CI Required,31-56 ,5,"Annapolis Junction, MD",1 to 50 employees,Company - Private,IT Services,Information Technology, MD,9,1,1,0
+"Data Scientist, Applied Machine Learning - Bay Area",95-119 ,3.3,"Redwood City, CA",501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,5,1,0,0
+Data Scientist,95-119 ,3.5,"Washington, DC",1001 to 5000 employees,Company - Private,Internet,Information Technology, DC,1,1,1,0
+Data Scientist,95-119 ,3.5,"San Clemente, CA",1 to 50 employees,Company - Private,Health Care Services & Hospitals,Health Care, CA,10,1,0,1
+Data Scientist,95-119 ,4,"New York, NY",1 to 50 employees,Company - Private,Accounting,Accounting & Legal, NY,-1,1,0,0
+Data Analyst,95-119 ,3.9,"Falls Church, VA",51 to 200 employees,Company - Public,Consulting,Business Services, VA,8,1,0,1
+Data Scientist,95-119 ,3.4,"Newton, MA",201 to 500 employees,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services, MA,30,1,0,0
+Data Scientist,95-119 ,3.5,"San Francisco, CA",10000+ employees,Company - Public,"Department, Clothing, & Shoe Stores",Retail, CA,51,1,1,0
+Data Scientist,95-119 ,4.7,"Washington, DC",1 to 50 employees,Company - Private,,, DC,-1,1,0,0
+Data Scientist,95-119 ,-1,"San Francisco, CA",,,,, CA,-1,1,1,0
+Data Scientist,95-119 ,-1,"San Francisco, CA",,,,, CA,-1,1,1,0
+Data Scientist,95-119 ,-1,"San Francisco, CA",,,,, CA,-1,1,1,0
+Data Scientist,95-119 ,-1,"San Francisco, CA",,,,, CA,-1,1,1,0
+Data Scientist,95-119 ,0,"San Francisco, CA",,,,, CA,-1,1,1,0
+Data Scientist,95-119 ,0,"San Francisco, CA",,,,, CA,-1,1,1,0
+Data Scientist,95-119 ,4.6,"The Woodlands, TX",1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services, TX,32,1,0,1
+Data Scientist,95-119 ,4,"Seattle, WA",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, WA,21,1,1,0
+Data Scientist,95-119 ,4,"Chicago, IL",1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services, IL,-1,1,0,0
+Data Scientist,95-119 ,0,"Chantilly, VA",1 to 50 employees,Unknown,,, VA,-1,0,0,0
+Data Scientist,95-119 ,4.7,"Chicago, IL",51 to 200 employees,Company - Private,Staffing & Outsourcing,Business Services, IL,26,0,0,0
+Data Scientist,95-119 ,3.5,"San Francisco, CA",51 to 200 employees,Company - Private,Consulting,Business Services, CA,22,1,0,0
+Data Scientist - TS/SCI Required,95-119 ,5,"Baltimore, MD",1 to 50 employees,Company - Private,IT Services,Information Technology, MD,9,1,1,0
+Senior Principal Data Scientist (Python/R),212-331 ,4.1,"Pleasanton, CA",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,124,1,1,0
+"Real World Science, Data Scientist",212-331 ,4,"Wilmington, DE",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, DE,107,1,0,0
+Data Scientist,212-331 ,3.6,United States,201 to 500 employees,Company - Public,Staffing & Outsourcing,Business Services,US,18,1,0,0
+Data Scientist(s)/Machine Learning Engineer,212-331 ,5,"New York, NY",1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services, NY,33,1,0,0
+Senior Data Scientist,212-331 ,3.5,"Herndon, VA",5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, VA,-1,1,0,0
+Data Scientist,212-331 ,4.7,"Seattle, WA",Unknown,Company - Private,Publishing,Media, WA,-1,1,1,0
+Data Scientist,212-331 ,3.5,"Herndon, VA",5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, VA,-1,1,1,1
+Data Scientist,212-331 ,3.6,"Fort Sam Houston, TX",501 to 1000 employees,Government,,, TX,-1,1,0,0
+ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,212-331 ,3.9,"Oklahoma City, OK",1001 to 5000 employees,Nonprofit Organization,Research & Development,Business Services, OK,73,1,0,0
+Data Scientist,212-331 ,2.7,"Lexington Park, MD",51 to 200 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, MD,10,0,0,0
+Data Science Software Engineer,212-331 ,4.8,"Boston, MA",201 to 500 employees,Company - Private,Computer Hardware & Software,Information Technology, MA,8,1,0,0
+"Scientist / Group Lead, Cancer Biology",212-331 ,0,"Cambridge, MA",,,,, MA,-1,0,0,0
+Data Scientist,212-331 ,4,"Washington, DC",51 to 200 employees,Company - Private,"Health, Beauty, & Fitness",Consumer Services, DC,-1,1,1,1
+Data Scientist,212-331 ,3.8,"Washington, DC",51 to 200 employees,Company - Public,IT Services,Information Technology, DC,10,1,1,0
+"Manager, Field Application Scientist, Southeast",212-331 ,4.2,"Raleigh, NC",501 to 1000 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, NC,8,0,0,0
+COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING,212-331 ,3.9,"Dayton, OH",1001 to 5000 employees,Nonprofit Organization,Research & Development,Business Services, OH,73,1,0,0
+Data Scientist,212-331 ,0,"New York, NY",Unknown,Company - Private,,, NY,-1,0,1,0
+Data Scientist,212-331 ,4.5,"Washington, DC",1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services, DC,40,1,0,0
+Scientist - Machine Learning,212-331 ,3.5,"Seattle, WA",201 to 500 employees,Nonprofit Organization,Research & Development,Business Services, WA,17,0,0,0
+Data Scientist,212-331 ,2.7,"New York, NY",1001 to 5000 employees,Company - Public,Wholesale,Business Services, NY,44,1,0,1
+Data Scientist,212-331 ,3.5,"Washington, DC",51 to 200 employees,Company - Private,Consulting,Business Services, DC,8,1,0,1
+Data Scientist - Image and Video Analytics,66-112 ,4.9,"Longmont, CO",1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services, CO,4,1,1,0
+Data Scientist,66-112 ,3.6,"Washington, DC",51 to 200 employees,Company - Private,IT Services,Information Technology, DC,19,0,0,0
+Data Scientist,66-112 ,5,"Washington, DC",1 to 50 employees,Company - Private,,, DC,-1,1,0,1
+Data Scientist,66-112 ,3.1,"Sunnyvale, CA",1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services, CA,19,1,0,1
+Senior Data Engineer,66-112 ,3.9,"San Francisco, CA",501 to 1000 employees,Company - Private,Internet,Information Technology, CA,11,1,0,0
+Data Scientist,66-112 ,3.4,"Patuxent, Anne Arundel, MD",51 to 200 employees,Company - Private,IT Services,Information Technology, MD,34,0,0,0
+Machine Learning Scientist / Engineer,66-112 ,4.1,"Santa Clara, CA",10000+ employees,Company - Public,Computer Hardware & Software,Information Technology, CA,44,0,0,0
+Data Scientist,66-112 ,4.1,"Fairfax, VA",10000+ employees,Company - Public,Staffing & Outsourcing,Business Services, VA,54,0,0,0
+Sr. Data Scientist,66-112 ,3.5,"Denver, CO",201 to 500 employees,Company - Private,Travel Agencies,Travel & Tourism, CO,9,1,0,0
+"Intelligence Data Analyst, Senior",66-112 ,4.3,"Fort Belvoir, VA",501 to 1000 employees,Company - Private,IT Services,Information Technology, VA,10,1,0,0
+Data Science Analyst,66-112 ,4.4,"Chicago, IL",201 to 500 employees,Company - Private,Lending,Finance, IL,8,1,0,0
+Data Scientist,66-112 ,3.8,"Thousand Oaks, CA",1001 to 5000 employees,Company - Private,IT Services,Information Technology, CA,21,1,0,0
+Data Scientist,66-112 ,3.7,"McLean, VA",5001 to 10000 employees,Subsidiary or Business Segment,Energy,"Oil, Gas, Energy & Utilities", VA,112,1,0,0
+COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - TRANSPORTATION TECHNOLOGY,66-112 ,3.9,"San Antonio, TX",1001 to 5000 employees,Nonprofit Organization,Research & Development,Business Services, TX,73,1,0,0
+Data Scientist,66-112 ,3.9,"Silver Spring, MD",501 to 1000 employees,Company - Private,IT Services,Information Technology, MD,14,1,0,0
+Data Modeler (Analytical Systems),66-112 ,3.7,"Boston, MA",5001 to 10000 employees,Company - Private,Insurance Carriers,Insurance, MA,169,0,1,0
+Data Scientist,66-112 ,2.9,"Washington, DC",501 to 1000 employees,Contract,IT Services,Information Technology, DC,-1,0,0,0
+Data Scientist,66-112 ,4.6,"New York, NY",51 to 200 employees,Company - Private,IT Services,Information Technology, NY,8,1,0,0
+Data Scientist,66-112 ,3.4,"McLean, VA",201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, VA,23,1,1,0
+"Data Engineer (Analytics, SQL, Python, AWS)",66-112 ,4,"Hartford, CT",10000+ employees,Company - Public,Insurance Carriers,Insurance, CT,167,1,1,0
+Data Scientist 3 (718),128-201 ,3.3,"Emeryville, CA",201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,17,1,0,0
+Data Scientist,128-201 ,4.3,"Austin, TX",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, TX,21,1,1,0
+Senior Data Scientist,128-201 ,3.9,"San Francisco, CA",501 to 1000 employees,Company - Private,Internet,Information Technology, CA,11,1,1,0
+Senior Data Analyst - Finance & Platform Analytics,128-201 ,3.6,"San Francisco, CA",1001 to 5000 employees,Subsidiary or Business Segment,Internet,Information Technology, CA,9,1,0,1
+Software Engineer - Machine Learning & Data Science (Applied Intelligence Services Team),128-201 ,4.7,"Portland, OR",1001 to 5000 employees,Company - Public,Computer Hardware & Software,Information Technology, OR,12,1,0,0
+IT Partner Digital Health Technology and Data Science,128-201 ,3.6,"Cambridge, MA",5001 to 10000 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,42,0,0,0
+Data Scientist,128-201 ,0,"San Francisco, CA",,,,, CA,-1,1,1,1
+"Senior Machine Learning Scientist - Bay Area, CA",128-201 ,3.3,"Redwood City, CA",501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,5,1,0,0
+Data Scientist,128-201 ,3.3,"San Diego, CA",501 to 1000 employees,Company - Private,Insurance Carriers,Insurance, CA,48,1,0,0
+Clinical Data Analyst,128-201 ,3.8,"New York, NY",51 to 200 employees,Nonprofit Organization,Consulting,Business Services, NY,24,1,0,0
+Data Scientist,128-201 ,4.5,"Chantilly, VA",501 to 1000 employees,Company - Private,Consulting,Business Services, VA,16,0,0,0
+Data Engineer,128-201 ,4.5,"Falls Church, VA",51 to 200 employees,Company - Private,Federal Agencies,Government, VA,15,1,0,0
+Data Scientist Technical Specialist,128-201 ,3.4,"Chantilly, VA",1001 to 5000 employees,Company - Private,Aerospace & Defense,Aerospace & Defense, VA,3,1,1,0
+Senior Data Scientist,128-201 ,3.1,"Chicago, IL",1001 to 5000 employees,Company - Private,Staffing & Outsourcing,Business Services, IL,46,1,0,0
+Data Science Manager,128-201 ,4,"San Francisco, CA",5001 to 10000 employees,Company - Public,Computer Hardware & Software,Information Technology, CA,38,1,1,0
+Computer Vision / Deep Learning Scientist,128-201 ,3.3,"Chicago, IL",501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, IL,5,0,0,0
+Big Data Engineer,128-201 ,4.1,"Raleigh, NC",1001 to 5000 employees,Company - Private,Industrial Manufacturing,Manufacturing, NC,44,1,1,0
+Data Architect,128-201 ,4.2,"Orlando, FL",51 to 200 employees,Company - Private,Investment Banking & Asset Management,Finance, FL,24,1,1,0
+Machine Learning Engineer,128-201 ,3.9,"New York, NY",1 to 50 employees,Company - Private,IT Services,Information Technology, NY,-1,0,0,0
+Data Scientist,128-201 ,0,"Philadelphia, PA",Unknown,Company - Public,,, PA,-1,1,0,0
+Aviation AI/ML Data Scientist,128-201 ,3.3,"McLean, VA",5001 to 10000 employees,Nonprofit Organization,Federal Agencies,Government, VA,62,1,1,1
+Data Scientist,138-158 ,3.9,United States,10000+ employees,Company - Private,Food & Beverage Manufacturing,Manufacturing,US,109,1,1,0
+Data Scientist / Applied Mathematician,138-158 ,4.5,"Santa Cruz, CA",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, CA,17,1,0,0
+"Machine Learning Engineer, Sr.",138-158 ,4.2,"Simi Valley, CA",501 to 1000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, CA,49,1,0,0
+Data Scientist (TS/SCI w/ Poly),138-158 ,3.5,"Herndon, VA",5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, VA,-1,1,0,0
+Weapons and Sensors Engineer/Scientist,138-158 ,4,"Huntsville, AL",1001 to 5000 employees,Company - Private,Aerospace & Defense,Aerospace & Defense, AL,46,1,0,0
+Applied Computer Scientist,138-158 ,4.5,"Woburn, MA",201 to 500 employees,Company - Private,Aerospace & Defense,Aerospace & Defense, MA,10,0,0,0
+Senior Data Analyst,138-158 ,4.5,"Herndon, VA",501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, VA,8,1,0,0
+Information Systems Engineering Specialist (Engineering Scientist),138-158 ,3.8,"Austin, TX",501 to 1000 employees,College / University,Colleges & Universities,Education, TX,-1,1,0,0
+Cloud Data Engineer (Azure),138-158 ,3.9,"Merrifield, VA",10000+ employees,Other Organization,Banks & Credit Unions,Finance, VA,87,0,0,1
+Scientist/Research Associate-Metabolic Engineering,138-158 ,2,"New Bedford, MA",51 to 200 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,-1,0,0,0
+"Vice President, Biometrics and Clinical Data Management",138-158 ,4.8,"South San Francisco, CA",51 to 200 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,7,0,0,0
+Enterprise Data Analyst (Enterprise Portfolio Management Office),138-158 ,3.9,"Merrifield, VA",10000+ employees,Other Organization,Banks & Credit Unions,Finance, VA,87,0,1,1
+Senior Scientist - Toxicologist - Product Integrity (Stewardship),138-158 ,3.3,"Winston-Salem, NC",5001 to 10000 employees,Company - Private,Consumer Products Manufacturing,Manufacturing, NC,145,0,0,0
+Lead Data Scientist – Network Analysis and Control,138-158 ,3.3,"Bedford, MA",5001 to 10000 employees,Nonprofit Organization,Federal Agencies,Government, MA,62,1,1,0
+Senior Machine Learning Engineer,138-158 ,5,"Raleigh, NC",51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, NC,4,0,1,0
+"Sr. Research Associate/ Scientist, NGS prep & Molecular Genomics",138-158 ,4.4,"New Bedford, MA",51 to 200 employees,Company - Public,,, MA,-1,0,0,0
+Data Engineer,138-158 ,3.4,"Chicago, IL",51 to 200 employees,Company - Private,Advertising & Marketing,Business Services, IL,28,1,0,0
+Developer III - Data Science,138-158 ,3.3,"Rancho Cucamonga, CA",1001 to 5000 employees,Company - Public,Health Care Services & Hospitals,Health Care, CA,24,0,0,1
+Senior Data Engineer,138-158 ,2.9,"New York, NY",51 to 200 employees,Company - Private,Advertising & Marketing,Business Services, NY,22,1,1,1
+Hydrogen/Tritium Materials Scientist (Experienced),138-158 ,3.8,"Livermore, CA",10000+ employees,Government,Federal Agencies,Government, CA,71,0,0,0
+Data Engineer,138-158 ,3.5,"McLean, VA",5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, VA,-1,1,0,0
+Patient Safety- Associate Data Scientist,80-132 ,4,"Gaithersburg, MD",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MD,107,1,0,0
+Senior Data Scientist,80-132 ,4,"San Francisco, CA",5001 to 10000 employees,Company - Public,Computer Hardware & Software,Information Technology, CA,38,1,1,0
+Data Scientist,80-132 ,3.4,"Southfield, MI",1001 to 5000 employees,Company - Private,Construction,"Construction, Repair & Maintenance", MI,22,1,0,0
+Data Scientist,80-132 ,3.9,"Collegeville, PA",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, PA,190,1,0,1
+Data Scientist,80-132 ,3.8,"Washington, DC",Unknown,Government,Federal Agencies,Government, DC,73,0,0,0
+Data Scientist,80-132 ,4.5,"Chicago, IL",201 to 500 employees,Company - Private,Consulting,Business Services, IL,12,1,0,1
+Data Scientist,80-132 ,4.3,"Minneapolis, MN",51 to 200 employees,Company - Private,Advertising & Marketing,Business Services, MN,11,1,0,0
+Data Scientist,80-132 ,3.6,"Gahanna, OH",1 to 50 employees,Company - Private,,, OH,-1,1,0,0
+Data Scientist,80-132 ,2.9,"Nashville, TN",10000+ employees,Company - Private,Health Care Services & Hospitals,Health Care, TN,15,1,1,1
+Data Scientist,80-132 ,2.9,United States,201 to 500 employees,Company - Private,IT Services,Information Technology,US,35,1,0,0
+Decision Scientist,80-132 ,4.5,"Laurel, MD",5001 to 10000 employees,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense, MD,78,0,1,0
+Data Scientist - TS/SCI FSP or CI Required,80-132 ,5,"Annapolis Junction, MD",1 to 50 employees,Company - Private,IT Services,Information Technology, MD,9,1,1,0
+Data Scientist,80-132 ,3.5,"San Clemente, CA",1 to 50 employees,Company - Private,Health Care Services & Hospitals,Health Care, CA,10,1,0,1
+Data Scientist,80-132 ,4,"New York, NY",1 to 50 employees,Company - Private,Accounting,Accounting & Legal, NY,-1,1,0,0
+Data Scientist,80-132 ,4.4,"Washington, DC",51 to 200 employees,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology, DC,23,0,0,0
+Data Scientist,80-132 ,4.2,"Atlanta, GA",10000+ employees,Company - Private,IT Services,Information Technology, GA,21,1,1,0
+Data Scientist,80-132 ,3.2,"Plano, TX",1 to 50 employees,Company - Private,Consulting,Business Services, TX,-1,1,0,0
+Data Scientist,80-132 ,3.4,"Fairfax, VA",51 to 200 employees,Company - Private,Aerospace & Defense,Aerospace & Defense, VA,35,0,0,0
+Data Scientist,80-132 ,4.7,"Washington, DC",1 to 50 employees,Company - Private,,, DC,-1,1,0,0
+Senior Data Scientist,87-141 ,4.2,"Alexandria, VA",5001 to 10000 employees,Company - Public,Research & Development,Business Services, VA,52,1,1,1
+Data Scientist,87-141 ,0,"Omaha, NE",,,,, NE,-1,1,0,0
+Data Scientist,87-141 ,3.2,"Wellesley, MA",10000+ employees,Company - Private,Insurance Carriers,Insurance, MA,167,0,0,0
+Data Scientist,87-141 ,0,"Washington, VA",Unknown,Company - Private,,, VA,-1,0,0,0
+Data Scientist,87-141 ,2.8,"Fort Worth, TX",1001 to 5000 employees,Subsidiary or Business Segment,Rail,Transportation & Logistics, TX,37,1,0,0
+Data Scientist,87-141 ,4.2,"Atlanta, GA",10000+ employees,Company - Private,IT Services,Information Technology, GA,21,1,1,0
+Data Scientist,87-141 ,4.5,"Alexandria, VA",51 to 200 employees,Company - Private,Aerospace & Defense,Aerospace & Defense, VA,11,0,0,0
+Data Scientist,87-141 ,3,"Bellevue, WA",51 to 200 employees,Company - Private,Consulting,Business Services, WA,14,1,1,0
+Data Scientist,87-141 ,3.3,United States,5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense,US,69,1,0,0
+Data Scientist,87-141 ,4,"Thousand Oaks, CA",1 to 50 employees,Company - Private,,, CA,-1,1,0,0
+Data Engineer,87-141 ,3.5,"Orange, CA",501 to 1000 employees,Company - Private,Health Care Services & Hospitals,Health Care, CA,7,0,1,1
+Data Scientist,87-141 ,3.5,"Baltimore, MD",1 to 50 employees,Company - Private,Consulting,Business Services, MD,22,1,1,1
+Data Scientist,87-141 ,3.6,"Herndon, VA",51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology, VA,30,1,1,1
+Data Scientist,87-141 ,3,"Alexandria, VA",51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, VA,8,0,1,0
+Data Scientist/Data Analytics Practitioner,87-141 ,4,"Bridgeport, WV",1001 to 5000 employees,Nonprofit Organization,Consulting,Business Services, WV,24,1,0,0
+Data Scientist,87-141 ,4.6,"The Woodlands, TX",1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services, TX,32,1,0,1
+Data Scientist,87-141 ,4.3,"Oakville, CA",1001 to 5000 employees,Company - Private,Computer Hardware & Software,Information Technology, CA,20,1,1,0
+Data Scientist,87-141 ,4.7,"Chicago, IL",51 to 200 employees,Company - Private,Staffing & Outsourcing,Business Services, IL,26,0,0,0
+Data Scientist,87-141 ,3.7,"Arlington, VA",201 to 500 employees,Company - Private,IT Services,Information Technology, VA,16,1,0,0
+"Data Scientist, Kinship - NYC/Portland",92-155 ,3.9,"New York, NY",10000+ employees,Company - Private,Food & Beverage Manufacturing,Manufacturing, NY,109,1,1,0
+Data Scientist,92-155 ,3,"Seattle, WA",51 to 200 employees,Company - Private,Consulting,Business Services, WA,-1,1,1,0
+Data Scientist,92-155 ,2.5,"Naperville, IL",5001 to 10000 employees,Company - Private,Wholesale,Business Services, IL,66,1,1,1
+Data Scientist,92-155 ,3.5,"San Francisco, CA",51 to 200 employees,Company - Private,Consulting,Business Services, CA,22,1,0,0
+Data Scientist - TS/SCI Required,92-155 ,5,"Baltimore, MD",1 to 50 employees,Company - Private,IT Services,Information Technology, MD,9,1,1,0
+Data Scientist,92-155 ,0,"Chantilly, VA",1 to 50 employees,Unknown,,, VA,-1,0,0,0
+Senior Data Scientist,92-155 ,3.5,"Herndon, VA",5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, VA,-1,1,0,0
+Data Scientist,92-155 ,3,"Bellevue, WA",51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology, WA,21,1,1,0
+Data Scientist(s)/Machine Learning Engineer,92-155 ,5,"New York, NY",1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services, NY,33,1,0,0
+Data Scientist,92-155 ,4.7,"Chicago, IL",51 to 200 employees,Company - Private,IT Services,Information Technology, IL,-1,1,1,0
+Data Engineer,92-155 ,3.3,"Kansas City, MO",201 to 500 employees,Company - Private,Insurance Carriers,Insurance, MO,28,1,1,0
+Data Scientist,92-155 ,3.3,"Houston, TX",1001 to 5000 employees,Company - Private,Insurance Carriers,Insurance, TX,46,1,0,0
+Data Scientist,92-155 ,3.5,"Chantilly, VA",10000+ employees,Company - Public,Aerospace & Defense,Aerospace & Defense, VA,58,0,0,0
+"AI/ML - Machine Learning Scientist, Siri Understanding",92-155 ,4.1,"Santa Clara, CA",10000+ employees,Company - Public,Computer Hardware & Software,Information Technology, CA,44,1,0,0
+Data Scientist,92-155 ,3.5,"Herndon, VA",5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, VA,-1,1,1,1
+ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,92-155 ,3.9,"Oklahoma City, OK",1001 to 5000 employees,Nonprofit Organization,Research & Development,Business Services, OK,73,1,0,0
+Data Scientist,92-155 ,4.7,"Thousand Oaks, CA",51 to 200 employees,Company - Private,Consulting,Business Services, CA,12,1,0,0
+Data Science Software Engineer,92-155 ,4.8,"Boston, MA",201 to 500 employees,Company - Private,Computer Hardware & Software,Information Technology, MA,8,1,0,0
+"Scientist / Group Lead, Cancer Biology",92-155 ,0,"Cambridge, MA",,,,, MA,-1,0,0,0
+AI Ops Data Scientist,92-155 ,4,"Gaithersburg, MD",10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MD,107,1,1,0
+Senior Data Scientist,105-167 ,3.8,"Denver, CO",51 to 200 employees,Company - Private,Advertising & Marketing,Business Services, CO,11,0,0,0
+Sr. ML/Data Scientist - AI/NLP/Chatbot,105-167 ,3.8,"Cupertino, CA",5001 to 10000 employees,Company - Public,Telecommunications Services,Telecommunications, CA,24,1,1,0
+Data Scientist,105-167 ,2.7,"Lexington Park, MD",51 to 200 employees,Company - Public,Aerospace & Defense,Aerospace & Defense, MD,10,0,0,0
+Data Scientist,105-167 ,4,"Washington, DC",51 to 200 employees,Company - Private,"Health, Beauty, & Fitness",Consumer Services, DC,-1,1,1,1
+Data Scientist,105-167 ,0,"Fort Belvoir, VA",,,,, VA,-1,0,0,0
+Data Scientist,105-167 ,0,"Naperville, IL",,,,, IL,-1,1,1,1
+Data Scientist,105-167 ,3.8,"Washington, DC",51 to 200 employees,Company - Public,IT Services,Information Technology, DC,10,1,1,0
+Data Scientist,105-167 ,3.2,"Adelphi, MD",10000+ employees,Company - Public,Aerospace & Defense,Aerospace & Defense, MD,2,1,0,0
+Data Scientist,105-167 ,0,"Redmond, WA",,,,, WA,-1,1,0,0
+Data Scientist,105-167 ,3.6,"West Chester, PA",10000+ employees,Company - Public,Other Retail Stores,Retail, PA,-1,1,0,1
+Data Scientist,105-167 ,4.4,"Edison, NJ",51 to 200 employees,Company - Private,,, NJ,-1,0,0,0
+Data Scientist,105-167 ,4.1,"Durham, NC",501 to 1000 employees,Company - Private,Staffing & Outsourcing,Business Services, NC,16,1,1,0
+Data Scientist,105-167 ,0,"Quantico, VA",1 to 50 employees,Company - Private,,, VA,-1,1,0,0
+Data Scientist,105-167 ,3.8,"Vienna, VA",201 to 500 employees,Company - Private,IT Services,Information Technology, VA,15,1,0,0
+Data Scientist,105-167 ,4,"Boston, MA",1001 to 5000 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,10,1,0,0
+Data Scientist,105-167 ,3.6,"Fort Lee, NJ",1001 to 5000 employees,Company - Private,Advertising & Marketing,Business Services, NJ,31,1,0,1
+Data Scientist,105-167 ,0,"San Francisco, CA",,,,, CA,-1,0,0,0
+Data Scientist,105-167 ,0,"Irwindale, CA",,,,, CA,-1,1,0,1
+Data Scientist,105-167 ,5,"San Francisco, CA",1 to 50 employees,Company - Private,Advertising & Marketing,Business Services, CA,-1,1,1,0
+Data Scientist,105-167 ,2.7,"New York, NY",1001 to 5000 employees,Company - Public,Wholesale,Business Services, NY,44,1,0,1
